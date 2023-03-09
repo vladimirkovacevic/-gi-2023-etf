@@ -17,3 +17,4 @@ marko.misic@etf.bg.ac.rs Course professor
 pedjao@etf.bg.ac.rs Teaching assistant Questions about technical details and exercises
 
 ### Obaveštenja o kursu
+09. mart 2023. U okviru lekcije 2 nalazi se tekst prvog domaćeg zadatka. Rok za izradu je 16. mart, 23:55.
